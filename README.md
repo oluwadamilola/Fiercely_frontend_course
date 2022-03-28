@@ -1,4 +1,10 @@
 # contact-api
 A CRUD api for a contact application
-#installation
-Npm install
+
+
+ install.
+
+npm i
+Run a development server.
+
+npm run start
